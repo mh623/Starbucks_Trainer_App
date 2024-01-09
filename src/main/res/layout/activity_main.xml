@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="284dp"
+    android:background="#f2f0eb"
+    android:orientation="vertical"
+    tools:context=".MainActivity"
+    >
+
+    <Button
+        android:id="@+id/standardBuildsButton"
+        android:layout_width="380dp"
+        android:layout_height="100dp"
+        android:layout_margin="6dp"
+        android:elevation="2dp"
+        android:fontFamily="monospace"
+        android:stateListAnimator="@null"
+        android:text="@string/standard_builds"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:cornerRadius="12dp"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:id="@+id/beverageComponentRecipesButton"
+        android:layout_width="380dp"
+        android:layout_height="100dp"
+        android:fontFamily="monospace"
+        android:text="@string/beverage_component_recipes"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        app:cornerRadius="12dp"
+        android:elevation="2dp"
+        android:stateListAnimator="@null"
+        android:layout_margin="6dp"
+        android:layout_gravity="center"
+        />
+
+    <Button
+        android:id="@+id/shelfLifeStandardsButton"
+        android:layout_width="380dp"
+        android:layout_height="100dp"
+        android:fontFamily="monospace"
+        android:gravity="center"
+        android:text="@string/shelf_life_standards"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="34sp"
+        android:textStyle="bold"
+        app:cornerRadius="12dp"
+        android:elevation="2dp"
+        android:stateListAnimator="@null"
+        android:layout_margin="6dp"
+        android:layout_gravity="center"
+        />
+
+</LinearLayout>
