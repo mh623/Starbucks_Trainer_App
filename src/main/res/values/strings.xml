@@ -53,4 +53,9 @@
     <string name="beverage_component_recipes_title">Beverage Component Recipes</string>
     <string name="beveragecomponentimage">beverageComponentImage</string>
     <string name="beveragecomponentinstructins">beverageComponentInstructins</string>
+    <string name="shelf_life_standards_title">Shelf Life Standards</string>
+    <string name="shelfitemimage">shelfItemImage</string>
+    <string name="shelfitemdetails">shelfItemDetails</string>
+    <string name="starbucks_trainer_app">STARBUCKS TRAINER APP</string>
+    <string name="not_an_official_resource">This is not an official resource made by Starbucks. Information received from sbuxdates.com</string>
 </resources>

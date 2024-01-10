@@ -6,7 +6,6 @@ import com.example.starbuckstrainerappnew.databinding.ActivityDrinkDetailBinding
 
 class DrinkDetailActivity : AppCompatActivity() {
     private lateinit var binding: ActivityDrinkDetailBinding
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityDrinkDetailBinding.inflate(layoutInflater)

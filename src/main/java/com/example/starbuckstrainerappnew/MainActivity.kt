@@ -23,5 +23,12 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, BeverageComponentRecipesActivity::class.java)
             startActivity(intent)
         }
+
+        val shelfLifeStandardsButton: Button = findViewById(R.id.shelfLifeStandardsButton)
+
+        shelfLifeStandardsButton.setOnClickListener {
+            val intent = Intent(this, ShelfLifeStandardsActivity::class.java)
+            startActivity(intent)
+        }
     }
 }

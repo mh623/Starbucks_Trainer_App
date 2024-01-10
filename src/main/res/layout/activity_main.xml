@@ -4,11 +4,25 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:paddingTop="284dp"
+    android:paddingTop="100dp"
     android:background="#f2f0eb"
     android:orientation="vertical"
     tools:context=".MainActivity"
     >
+
+    <TextView
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="50sp"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:text="@string/starbucks_trainer_app"
+        android:paddingBottom="100dp"
+        >
+
+    </TextView>
 
     <Button
         android:id="@+id/standardBuildsButton"
@@ -61,5 +75,18 @@
         android:layout_margin="6dp"
         android:layout_gravity="center"
         />
+
+    <TextView
+        android:paddingTop="30dp"
+        android:layout_width="380dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textAlignment="center"
+        android:textSize="12sp"
+        android:fontFamily="monospace"
+        android:textStyle="normal"
+        android:text="@string/not_an_official_resource"
+        >
+    </TextView>
 
 </LinearLayout>

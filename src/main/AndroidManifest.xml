@@ -13,6 +13,12 @@
         android:theme="@style/Theme.StarbucksTrainerAppNEW"
         tools:targetApi="31">
         <activity
+            android:name=".ShelfLifeStandardsDetailActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ShelfLifeStandardsActivity"
+            android:exported="false" />
+        <activity
             android:name=".BeverageComponentDetailActivity"
             android:exported="false" />
         <activity
