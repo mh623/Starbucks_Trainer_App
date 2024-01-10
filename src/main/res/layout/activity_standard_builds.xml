@@ -22,8 +22,6 @@
 
     </TextView>
 
-
-
     <androidx.recyclerview.widget.RecyclerView
         android:paddingTop="200dp"
         android:id="@+id/standardBuildsRecycleView"

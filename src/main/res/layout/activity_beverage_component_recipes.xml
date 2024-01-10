@@ -2,22 +2,33 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:background="#f2f0eb"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".BeverageComponentRecipesActivity">
 
     <TextView
-        android:layout_width="160dp"
-        android:layout_height="40dp"
-        android:gravity="center"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
+        android:layout_width="385dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45dp"
+        android:fontFamily="sans-serif-black"
+        android:text="@string/beverage_component_recipes_title"
+        android:textAlignment="center"
+        android:textSize="40sp"
+        android:textStyle="bold"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
-        android:text="@string/placeholder_text"
-        >
+        app:layout_constraintTop_toTopOf="parent">
 
     </TextView>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:paddingTop="200dp"
+        android:id="@+id/beverageComponentRecipesRecycleView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </androidx.recyclerview.widget.RecyclerView>
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

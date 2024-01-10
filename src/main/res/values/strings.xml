@@ -50,4 +50,7 @@
     <string name="placeholder_text">Placeholder Text</string>
     <string name="standard_builds_title">Standard Builds</string>
     <string name="drinkinstructions">drinkInstructions</string>
+    <string name="beverage_component_recipes_title">Beverage Component Recipes</string>
+    <string name="beveragecomponentimage">beverageComponentImage</string>
+    <string name="beveragecomponentinstructins">beverageComponentInstructins</string>
 </resources>
