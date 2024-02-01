@@ -22,6 +22,6 @@ Photos:
 ![Standard_Builds](https://github.com/mh623/Starbucks_Trainer_App/assets/78939178/6512cb22-8103-4735-bd29-6367f354cf3c)
 ![Beverage_Component_Recipes](https://github.com/mh623/Starbucks_Trainer_App/assets/78939178/b5491d33-e3eb-40ae-a896-af9cefdffce8)
 ![Shelf_Life_Standards](https://github.com/mh623/Starbucks_Trainer_App/assets/78939178/50188898-05e7-466f-9d0a-243d627d3bb6)
-![Espresso_Instructions](https://github.com/mh623/Starbucks_Trainer_App/assets/78939178/95418b1f-76e9-4fac-b815-aaea5713bf8b)
+![Espresso_Instructions](https://github.com/mh623/Starbucks_Trainer_App/assets/78939178/cc42176d-043f-4051-8bef-2e87b28707f8)
 ![Teavana_Tea_Instructions](https://github.com/mh623/Starbucks_Trainer_App/assets/78939178/90ecb579-68d1-4667-a3cf-cc99d8464762)
 ![Coffee_And_Tea_Details](https://github.com/mh623/Starbucks_Trainer_App/assets/78939178/99836dbe-b6c2-4b84-a8cd-62064fd4f230)
