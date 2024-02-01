@@ -1,6 +1,7 @@
 Author - Michael Holguin
 
 Description:
+
 This app is intended to help new Starbucks baristas  in training with memorizing 
 how to make beverages, beverage components, as well as a cheat sheet for the shelf 
 life of different products.
