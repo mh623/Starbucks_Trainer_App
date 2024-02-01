@@ -16,6 +16,14 @@ Heading of the option they chose, and below that, a recycler view displaying the
 products within that option’s field. Clicking on a product then displays the steps
 on how to make the product or information on the product’s shelf life.
 
+Rather than have each and every option be built uniquely, I opted to create 
+three objects: Drink, BeverageComponent, and ShelfItem–all of which had the 
+data of the image, name, and instructions or details binded to them.
+
+The UI was entirely created using XML, and I purposely chose colors associated
+with the Starbucks brand for the layout of the entire app, including the status 
+bar of an Android Device.
+
 Photos:
 
 ![Main_Activity](https://github.com/mh623/Starbucks_Trainer_App/assets/78939178/f9d59b39-3f52-4a10-b1f6-608db1dcc7e7)
